@@ -1,10 +1,11 @@
-# Your Name [edit]
+# Ketan Singh
 
 ## Experience
-How was your experience [edit]
+my experience was awesome
 ## Learning
-- What was your learning [edit]
-- Mention in points
+- i learned HADOOP
+- git and git hub
+- backend web basics
 
 ## Profile
-Link of profile readme [repository link](https://github.com/prateek18801/web-development-tasks/blob/main/readme.md) [edit]
+Link of profile readme https://github.com/Ketan-Singh-2110156/ketan-singh/blob/master/readme.md
