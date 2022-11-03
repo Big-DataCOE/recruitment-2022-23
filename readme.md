@@ -8,4 +8,4 @@ my experience was awesome
 - backend web basics
 
 ## Profile
-Link of profile readme [repository link] (https://github.com/Ketan-Singh-2110156/ketan-singh.git)
+Link of profile readme https://github.com/Ketan-Singh-2110156/ketan-singh/blob/master/readme.md
