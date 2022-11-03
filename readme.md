@@ -1,10 +1,8 @@
-# Your Name [edit]
+Your Name : Shreya Bhatt
 
-## Experience
-How was your experience [edit]
-## Learning
-- What was your learning [edit]
-- Mention in points
+Experience: I've had a great experience so far and have got to learn a lot.
 
-## Profile
-Link of profile readme [repository link](https://github.com/prateek18801/web-development-tasks/blob/main/readme.md) [edit]
+Learning: I've learned to use new softwares for designing like figma, aftereffects,photoshop.
+
+Profile: Link of profile readme repository link : https://github.com/shreyabhatt28/shreyabhatt28#readme
+
