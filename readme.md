@@ -1,10 +1,12 @@
 # Your Name [edit]
+Rani Singh
+## Experience 
+great I learn a lot
 
-## Experience
-How was your experience [edit]
+great 
 ## Learning
-- What was your learning [edit]
-- Mention in points
+
+web development
 
 ## Profile
-Link of profile readme [repository link](https://github.com/prateek18801/web-development-tasks/blob/main/readme.md) [edit]
+Link of profile readme [repository link](gh repo clone rani93/rani93) [edit]
