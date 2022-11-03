@@ -1,10 +1,10 @@
-# Your Name [edit]
+# Rishita Srivastava
 
 ## Experience
-How was your experience [edit]
+It was a great experience.
 ## Learning
-- What was your learning [edit]
-- Mention in points
+- I learnt about different domains.
+- I got to know about my interests in certain domain i.e. Web Development.
 
 ## Profile
-Link of profile readme [repository link](https://github.com/prateek18801/web-development-tasks/blob/main/readme.md) [edit]
+Link of profile readme [repository link](https://github.com/Rishita1304/New-Repo/blob/main/README.md) 
